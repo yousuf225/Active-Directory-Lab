@@ -1,0 +1,5 @@
+ipconfig
+gpupdate /force
+gpresult /r
+gpresult /scope computer /r
+w32tm /resync
